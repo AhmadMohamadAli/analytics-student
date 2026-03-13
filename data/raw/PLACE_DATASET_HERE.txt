@@ -1,0 +1,6 @@
+Place the raw CSV file here.
+
+Download the dataset from Kaggle:
+https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
+
+Rename the file to: students.csv

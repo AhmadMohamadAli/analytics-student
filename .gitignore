@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+database/*.db
+data/raw/*.csv
+data/clean/*.csv
+*.joblib
+.ipynb_checkpoints/
